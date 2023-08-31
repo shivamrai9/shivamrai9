@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡  I like to explore new technologies and develop software solutions and quick hacks.<br>🎓  I completed my learning from Masai School on full-stack web-development .<br>🌱  Still I'm on track for learning more about web-development, UI-design, and Back-end.<br>✍️  In my free time, I spend quality time with family and friends.<br>✉️  You can shoot me an email at shivamrai5476@gmail.com! I'll reply as soon as I can.<br>📄  Please have a look at my Resume for more details about me. I'm open to feedback and suggestions!
+💡  I like to explore new technologies and develop software solutions and quick hacks.<br>🌱  Still I'm on track for learning more about web-development, UI-design, and Back-end.<br>✍️  In my free time, I spend quality time with family and friends.<br>✉️  You can shoot me an email at shivamrai5476@gmail.com! I'll reply as soon as I can.<br>📄  Please have a look at my Resume for more details about me. I'm open to feedback and suggestions!
 
 
 ## 🌐 Socials:
